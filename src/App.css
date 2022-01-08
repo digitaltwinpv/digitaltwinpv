@@ -1,28 +1,3 @@
 .App {
-  align-content: center; 
-}
-
-.center {
-  display: absolute;
-  justify-content: center;
-  align-items: center;
-  margin: 50px 400px;
-}
-
-div .title{
-  display: relative;
-  align-content: center;
-  margin-left: 100px;
-}
-
-.parag{
-  margin-left: 100px;
-}
-
-.caption{
-  margin-left: 250px;
-}
-
-.img{
-margin-left: 300px;
+  text-align: center; 
 }
